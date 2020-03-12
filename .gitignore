@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+#/BinaryDecimalConversion/.vs/BinaryDecimalConversion/v16/Server/sqlite3/db.lock
+#/Caeser/.vs/Caeser/v16/Server/sqlite3/db.lock
+#/ConvertToBin/.vs/ConvertToBin/v16/Server/sqlite3/db.lock
+#/GuesingGame/.vs/GuessingGame/v16/Server/sqlite3/db.lock
+#/GuessingGame2
+/Introduction Projects/.vs/Beginner Project/v16/Server/sqlite3/db.lock
+/RockPaperScisssors/.vs/RockPaperScisssors/v16/Server/sqlite3/db.lock
+/test solution/.vs/test solution/v16/Server/sqlite3/db.lock
+/PiCalculate/.vs/PiCalculate/v16/Server/sqlite3/db.lock
+/BubbleSort/.vs/BubbleSort/v16/Server/sqlite3/db.lock
+/BubbleSort/.vs/Sorting Functions/v16/Server/sqlite3/db.lock
+/Sorting Algorithms/.vs/Sorting Algorithms/v16/Server/sqlite3/db.lock
+/PalindromeSearch/.vs/PalindromeSearch/v16/Server/sqlite3/db.lock
+/FileEncryption/.vs/FileEncryption/v16/Server/sqlite3/db.lock
+/DiceTest/.vs/DiceTest/v16/Server/sqlite3/db.lock
+/CardGame/.vs/CardGame/v16/Server/sqlite3/db.lock
