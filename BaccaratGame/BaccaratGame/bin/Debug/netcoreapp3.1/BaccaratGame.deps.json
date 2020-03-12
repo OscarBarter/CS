@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BaccaratGame/1.0.0": {
+        "runtime": {
+          "BaccaratGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaccaratGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

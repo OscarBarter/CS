@@ -1,0 +1,11 @@
+D:\Code\CS\BaccaratGame\BaccaratGame\bin\Debug\netcoreapp3.1\BaccaratGame.exe
+D:\Code\CS\BaccaratGame\BaccaratGame\bin\Debug\netcoreapp3.1\BaccaratGame.deps.json
+D:\Code\CS\BaccaratGame\BaccaratGame\bin\Debug\netcoreapp3.1\BaccaratGame.runtimeconfig.json
+D:\Code\CS\BaccaratGame\BaccaratGame\bin\Debug\netcoreapp3.1\BaccaratGame.runtimeconfig.dev.json
+D:\Code\CS\BaccaratGame\BaccaratGame\bin\Debug\netcoreapp3.1\BaccaratGame.dll
+D:\Code\CS\BaccaratGame\BaccaratGame\bin\Debug\netcoreapp3.1\BaccaratGame.pdb
+D:\Code\CS\BaccaratGame\BaccaratGame\obj\Debug\netcoreapp3.1\BaccaratGame.csprojAssemblyReference.cache
+D:\Code\CS\BaccaratGame\BaccaratGame\obj\Debug\netcoreapp3.1\BaccaratGame.AssemblyInfoInputs.cache
+D:\Code\CS\BaccaratGame\BaccaratGame\obj\Debug\netcoreapp3.1\BaccaratGame.AssemblyInfo.cs
+D:\Code\CS\BaccaratGame\BaccaratGame\obj\Debug\netcoreapp3.1\BaccaratGame.dll
+D:\Code\CS\BaccaratGame\BaccaratGame\obj\Debug\netcoreapp3.1\BaccaratGame.pdb

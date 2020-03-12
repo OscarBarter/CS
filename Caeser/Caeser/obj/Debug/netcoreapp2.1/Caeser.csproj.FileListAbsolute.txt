@@ -1,0 +1,11 @@
+E:\Code\CS\Caeser\Caeser\bin\Debug\netcoreapp2.1\Caeser.deps.json
+E:\Code\CS\Caeser\Caeser\bin\Debug\netcoreapp2.1\Caeser.runtimeconfig.json
+E:\Code\CS\Caeser\Caeser\bin\Debug\netcoreapp2.1\Caeser.runtimeconfig.dev.json
+E:\Code\CS\Caeser\Caeser\bin\Debug\netcoreapp2.1\Caeser.dll
+E:\Code\CS\Caeser\Caeser\bin\Debug\netcoreapp2.1\Caeser.pdb
+E:\Code\CS\Caeser\Caeser\obj\Debug\netcoreapp2.1\Caeser.csprojAssemblyReference.cache
+E:\Code\CS\Caeser\Caeser\obj\Debug\netcoreapp2.1\Caeser.csproj.CoreCompileInputs.cache
+E:\Code\CS\Caeser\Caeser\obj\Debug\netcoreapp2.1\Caeser.AssemblyInfoInputs.cache
+E:\Code\CS\Caeser\Caeser\obj\Debug\netcoreapp2.1\Caeser.AssemblyInfo.cs
+E:\Code\CS\Caeser\Caeser\obj\Debug\netcoreapp2.1\Caeser.dll
+E:\Code\CS\Caeser\Caeser\obj\Debug\netcoreapp2.1\Caeser.pdb

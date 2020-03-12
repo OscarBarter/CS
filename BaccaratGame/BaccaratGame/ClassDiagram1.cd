@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CardGames.Card">
+    <Position X="5.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAQABBAAAQEAAAAQBAAAAAQCAAAgAAAAAAAA=</HashCode>
+      <FileName>CardGame classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGames.Deck">
+    <Position X="8" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAAABAAgAAAAIBQCAAAAAQsAAAIBAQAAAAABAA=</HashCode>
+      <FileName>CardGame classes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Card" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CardGames.Hand">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAAAAEEkQSACAgAAAgAgAAAAAAAAAACAABAAAA=</HashCode>
+      <FileName>CardGame classes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Card" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CardGames.ScoringHand">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>CardGame classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGames.BaccaratHand">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="CardGames.ScoringHand" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="1.733" />
+        <Point X="1.25" Y="2.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>CardGame classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Baccarat.Baccarat">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAgAACQgACBAAAAgBCUAAAAEAggABAAABBEBE=</HashCode>
+      <FileName>Baccarat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Baccarat.BaccaratGameDisplaying">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAQAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Baccarat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Baccarat.Program">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

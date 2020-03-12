@@ -1,0 +1,6 @@
+\\hr-storage1\homefolder\icrosby\documents\visual studio 2015\Projects\Baccarat\Baccarat\bin\Debug\Baccarat.exe.config
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat\Baccarat\bin\Debug\Baccarat.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat\Baccarat\bin\Debug\Baccarat.pdb
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat\Baccarat\obj\Debug\Baccarat.csprojResolveAssemblyReference.cache
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat\Baccarat\obj\Debug\Baccarat.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat\Baccarat\obj\Debug\Baccarat.pdb

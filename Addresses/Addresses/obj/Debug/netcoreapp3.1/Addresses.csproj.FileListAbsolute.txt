@@ -1,0 +1,11 @@
+D:\Code\CS\Addresses\Addresses\bin\Debug\netcoreapp3.1\Addresses.exe
+D:\Code\CS\Addresses\Addresses\bin\Debug\netcoreapp3.1\Addresses.deps.json
+D:\Code\CS\Addresses\Addresses\bin\Debug\netcoreapp3.1\Addresses.runtimeconfig.json
+D:\Code\CS\Addresses\Addresses\bin\Debug\netcoreapp3.1\Addresses.runtimeconfig.dev.json
+D:\Code\CS\Addresses\Addresses\bin\Debug\netcoreapp3.1\Addresses.dll
+D:\Code\CS\Addresses\Addresses\bin\Debug\netcoreapp3.1\Addresses.pdb
+D:\Code\CS\Addresses\Addresses\obj\Debug\netcoreapp3.1\Addresses.csprojAssemblyReference.cache
+D:\Code\CS\Addresses\Addresses\obj\Debug\netcoreapp3.1\Addresses.AssemblyInfoInputs.cache
+D:\Code\CS\Addresses\Addresses\obj\Debug\netcoreapp3.1\Addresses.AssemblyInfo.cs
+D:\Code\CS\Addresses\Addresses\obj\Debug\netcoreapp3.1\Addresses.dll
+D:\Code\CS\Addresses\Addresses\obj\Debug\netcoreapp3.1\Addresses.pdb

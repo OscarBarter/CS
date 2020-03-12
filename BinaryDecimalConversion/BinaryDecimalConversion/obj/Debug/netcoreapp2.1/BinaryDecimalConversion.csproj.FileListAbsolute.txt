@@ -1,0 +1,11 @@
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\bin\Debug\netcoreapp2.1\BinaryDecimalConversion.deps.json
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\bin\Debug\netcoreapp2.1\BinaryDecimalConversion.runtimeconfig.json
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\bin\Debug\netcoreapp2.1\BinaryDecimalConversion.runtimeconfig.dev.json
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\bin\Debug\netcoreapp2.1\BinaryDecimalConversion.dll
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\bin\Debug\netcoreapp2.1\BinaryDecimalConversion.pdb
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\obj\Debug\netcoreapp2.1\BinaryDecimalConversion.csprojAssemblyReference.cache
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\obj\Debug\netcoreapp2.1\BinaryDecimalConversion.csproj.CoreCompileInputs.cache
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\obj\Debug\netcoreapp2.1\BinaryDecimalConversion.AssemblyInfoInputs.cache
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\obj\Debug\netcoreapp2.1\BinaryDecimalConversion.AssemblyInfo.cs
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\obj\Debug\netcoreapp2.1\BinaryDecimalConversion.dll
+E:\Code\CS\BinaryDecimalConversion\BinaryDecimalConversion\obj\Debug\netcoreapp2.1\BinaryDecimalConversion.pdb
