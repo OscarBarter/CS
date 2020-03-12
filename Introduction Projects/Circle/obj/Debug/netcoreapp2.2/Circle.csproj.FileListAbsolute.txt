@@ -1,0 +1,11 @@
+D:\Code\CS\Introduction Projects\Circle\bin\Debug\netcoreapp2.2\Circle.deps.json
+D:\Code\CS\Introduction Projects\Circle\bin\Debug\netcoreapp2.2\Circle.runtimeconfig.json
+D:\Code\CS\Introduction Projects\Circle\bin\Debug\netcoreapp2.2\Circle.runtimeconfig.dev.json
+D:\Code\CS\Introduction Projects\Circle\bin\Debug\netcoreapp2.2\Circle.dll
+D:\Code\CS\Introduction Projects\Circle\bin\Debug\netcoreapp2.2\Circle.pdb
+D:\Code\CS\Introduction Projects\Circle\obj\Debug\netcoreapp2.2\Circle.csprojAssemblyReference.cache
+D:\Code\CS\Introduction Projects\Circle\obj\Debug\netcoreapp2.2\Circle.csproj.CoreCompileInputs.cache
+D:\Code\CS\Introduction Projects\Circle\obj\Debug\netcoreapp2.2\Circle.AssemblyInfoInputs.cache
+D:\Code\CS\Introduction Projects\Circle\obj\Debug\netcoreapp2.2\Circle.AssemblyInfo.cs
+D:\Code\CS\Introduction Projects\Circle\obj\Debug\netcoreapp2.2\Circle.dll
+D:\Code\CS\Introduction Projects\Circle\obj\Debug\netcoreapp2.2\Circle.pdb

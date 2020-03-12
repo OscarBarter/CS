@@ -1,0 +1,11 @@
+E:\Code\CS\Guessing Game\Power2\bin\Debug\netcoreapp2.1\Power2.deps.json
+E:\Code\CS\Guessing Game\Power2\bin\Debug\netcoreapp2.1\Power2.runtimeconfig.json
+E:\Code\CS\Guessing Game\Power2\bin\Debug\netcoreapp2.1\Power2.runtimeconfig.dev.json
+E:\Code\CS\Guessing Game\Power2\bin\Debug\netcoreapp2.1\Power2.dll
+E:\Code\CS\Guessing Game\Power2\bin\Debug\netcoreapp2.1\Power2.pdb
+E:\Code\CS\Guessing Game\Power2\obj\Debug\netcoreapp2.1\Power2.csprojAssemblyReference.cache
+E:\Code\CS\Guessing Game\Power2\obj\Debug\netcoreapp2.1\Power2.csproj.CoreCompileInputs.cache
+E:\Code\CS\Guessing Game\Power2\obj\Debug\netcoreapp2.1\Power2.AssemblyInfoInputs.cache
+E:\Code\CS\Guessing Game\Power2\obj\Debug\netcoreapp2.1\Power2.AssemblyInfo.cs
+E:\Code\CS\Guessing Game\Power2\obj\Debug\netcoreapp2.1\Power2.dll
+E:\Code\CS\Guessing Game\Power2\obj\Debug\netcoreapp2.1\Power2.pdb

@@ -1,0 +1,13 @@
+\\hr-storage1\HomeFolder\sjessup\Documents\C#\PCardGameIncomplete\PCardGameIncomplete\bin\Debug\PCardGameIncomplete.exe.config
+\\hr-storage1\HomeFolder\sjessup\Documents\C#\PCardGameIncomplete\PCardGameIncomplete\bin\Debug\PCardGameIncomplete.exe
+\\hr-storage1\HomeFolder\sjessup\Documents\C#\PCardGameIncomplete\PCardGameIncomplete\bin\Debug\PCardGameIncomplete.pdb
+\\hr-storage1\HomeFolder\sjessup\Documents\C#\PCardGameIncomplete\PCardGameIncomplete\obj\Debug\PCardGameIncomplete.exe
+\\hr-storage1\HomeFolder\sjessup\Documents\C#\PCardGameIncomplete\PCardGameIncomplete\obj\Debug\PCardGameIncomplete.pdb
+\\hr-storage1\HomeFolder\sjessup\Documents\C#\PCardGameIncomplete\PCardGameIncomplete\obj\Debug\PCardGameIncomplete.csprojResolveAssemblyReference.cache
+E:\Code\CS\PCardGameIncomplete\PCardGameIncomplete\bin\Debug\PCardGameIncomplete.exe.config
+E:\Code\CS\PCardGameIncomplete\PCardGameIncomplete\bin\Debug\PCardGameIncomplete.exe
+E:\Code\CS\PCardGameIncomplete\PCardGameIncomplete\bin\Debug\PCardGameIncomplete.pdb
+E:\Code\CS\PCardGameIncomplete\PCardGameIncomplete\obj\Debug\PCardGameIncomplete.csprojAssemblyReference.cache
+E:\Code\CS\PCardGameIncomplete\PCardGameIncomplete\obj\Debug\PCardGameIncomplete.csproj.CoreCompileInputs.cache
+E:\Code\CS\PCardGameIncomplete\PCardGameIncomplete\obj\Debug\PCardGameIncomplete.exe
+E:\Code\CS\PCardGameIncomplete\PCardGameIncomplete\obj\Debug\PCardGameIncomplete.pdb

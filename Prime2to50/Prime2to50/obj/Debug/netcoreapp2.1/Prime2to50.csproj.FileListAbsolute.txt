@@ -1,0 +1,11 @@
+U:\Documents\CS\Prime2to50\Prime2to50\bin\Debug\netcoreapp2.1\Prime2to50.deps.json
+U:\Documents\CS\Prime2to50\Prime2to50\bin\Debug\netcoreapp2.1\Prime2to50.runtimeconfig.json
+U:\Documents\CS\Prime2to50\Prime2to50\bin\Debug\netcoreapp2.1\Prime2to50.runtimeconfig.dev.json
+U:\Documents\CS\Prime2to50\Prime2to50\bin\Debug\netcoreapp2.1\Prime2to50.dll
+U:\Documents\CS\Prime2to50\Prime2to50\bin\Debug\netcoreapp2.1\Prime2to50.pdb
+U:\Documents\CS\Prime2to50\Prime2to50\obj\Debug\netcoreapp2.1\Prime2to50.csprojAssemblyReference.cache
+U:\Documents\CS\Prime2to50\Prime2to50\obj\Debug\netcoreapp2.1\Prime2to50.csproj.CoreCompileInputs.cache
+U:\Documents\CS\Prime2to50\Prime2to50\obj\Debug\netcoreapp2.1\Prime2to50.AssemblyInfoInputs.cache
+U:\Documents\CS\Prime2to50\Prime2to50\obj\Debug\netcoreapp2.1\Prime2to50.AssemblyInfo.cs
+U:\Documents\CS\Prime2to50\Prime2to50\obj\Debug\netcoreapp2.1\Prime2to50.dll
+U:\Documents\CS\Prime2to50\Prime2to50\obj\Debug\netcoreapp2.1\Prime2to50.pdb

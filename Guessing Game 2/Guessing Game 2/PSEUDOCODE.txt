@@ -1,0 +1,28 @@
+False -> QFound
+USER_INPUT -> Answer
+
+//linear search
+WHILE QFound == False THEN
+	IF i == Answer THEN
+		NUMBER FOUND
+	ELSE THEN
+		i ++
+	ENDIF
+ENDWHILE
+
+//binary search
+[1..100] -> numbers
+WHILE QFound == False THEN
+	IF numbers[Length(numbers)] == Answer THEN
+		NUMBER FOUND
+	ELIF numbers[Length(numbers)] > Answer THEN
+		FOR i(0,numbers[Length(numbers)]-1) THEN
+			numbers.RemoveAt(0)
+			i++
+	ELSE THEN
+		FOR i(0,numbers[Length(numbers)]-1) THEN
+			numbers.RemoveAt(-1)
+			i++
+	ENDIF
+ENDWHILE
+

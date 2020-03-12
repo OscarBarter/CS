@@ -1,0 +1,11 @@
+D:\Code\CS\DiceTest\DiceTest\bin\Debug\netcoreapp3.1\DiceTest.exe
+D:\Code\CS\DiceTest\DiceTest\bin\Debug\netcoreapp3.1\DiceTest.deps.json
+D:\Code\CS\DiceTest\DiceTest\bin\Debug\netcoreapp3.1\DiceTest.runtimeconfig.json
+D:\Code\CS\DiceTest\DiceTest\bin\Debug\netcoreapp3.1\DiceTest.runtimeconfig.dev.json
+D:\Code\CS\DiceTest\DiceTest\bin\Debug\netcoreapp3.1\DiceTest.dll
+D:\Code\CS\DiceTest\DiceTest\bin\Debug\netcoreapp3.1\DiceTest.pdb
+D:\Code\CS\DiceTest\DiceTest\obj\Debug\netcoreapp3.1\DiceTest.csprojAssemblyReference.cache
+D:\Code\CS\DiceTest\DiceTest\obj\Debug\netcoreapp3.1\DiceTest.AssemblyInfoInputs.cache
+D:\Code\CS\DiceTest\DiceTest\obj\Debug\netcoreapp3.1\DiceTest.AssemblyInfo.cs
+D:\Code\CS\DiceTest\DiceTest\obj\Debug\netcoreapp3.1\DiceTest.dll
+D:\Code\CS\DiceTest\DiceTest\obj\Debug\netcoreapp3.1\DiceTest.pdb

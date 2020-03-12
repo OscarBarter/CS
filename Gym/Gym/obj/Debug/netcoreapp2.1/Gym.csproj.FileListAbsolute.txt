@@ -1,0 +1,11 @@
+E:\Code\CS\Gym\Gym\bin\Debug\netcoreapp2.1\Gym.deps.json
+E:\Code\CS\Gym\Gym\bin\Debug\netcoreapp2.1\Gym.runtimeconfig.json
+E:\Code\CS\Gym\Gym\bin\Debug\netcoreapp2.1\Gym.runtimeconfig.dev.json
+E:\Code\CS\Gym\Gym\bin\Debug\netcoreapp2.1\Gym.dll
+E:\Code\CS\Gym\Gym\bin\Debug\netcoreapp2.1\Gym.pdb
+E:\Code\CS\Gym\Gym\obj\Debug\netcoreapp2.1\Gym.csprojAssemblyReference.cache
+E:\Code\CS\Gym\Gym\obj\Debug\netcoreapp2.1\Gym.csproj.CoreCompileInputs.cache
+E:\Code\CS\Gym\Gym\obj\Debug\netcoreapp2.1\Gym.AssemblyInfoInputs.cache
+E:\Code\CS\Gym\Gym\obj\Debug\netcoreapp2.1\Gym.AssemblyInfo.cs
+E:\Code\CS\Gym\Gym\obj\Debug\netcoreapp2.1\Gym.dll
+E:\Code\CS\Gym\Gym\obj\Debug\netcoreapp2.1\Gym.pdb

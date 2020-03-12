@@ -1,0 +1,11 @@
+E:\Code\CS\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\Name Ask.deps.json
+E:\Code\CS\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\Name Ask.runtimeconfig.json
+E:\Code\CS\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\Name Ask.runtimeconfig.dev.json
+E:\Code\CS\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\Name Ask.dll
+E:\Code\CS\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\Name Ask.pdb
+E:\Code\CS\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\Name Ask.csprojAssemblyReference.cache
+E:\Code\CS\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\Name Ask.csproj.CoreCompileInputs.cache
+E:\Code\CS\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\Name Ask.AssemblyInfoInputs.cache
+E:\Code\CS\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\Name Ask.AssemblyInfo.cs
+E:\Code\CS\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\Name Ask.dll
+E:\Code\CS\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\Name Ask.pdb

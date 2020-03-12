@@ -1,0 +1,10 @@
+E:\Code\CS\HelloWorld\Volume\obj\Debug\netcoreapp2.1\Volume.csproj.CoreCompileInputs.cache
+E:\Code\CS\HelloWorld\Volume\obj\Debug\netcoreapp2.1\Volume.AssemblyInfoInputs.cache
+E:\Code\CS\HelloWorld\Volume\obj\Debug\netcoreapp2.1\Volume.AssemblyInfo.cs
+E:\Code\CS\HelloWorld\Volume\bin\Debug\netcoreapp2.1\Volume.deps.json
+E:\Code\CS\HelloWorld\Volume\bin\Debug\netcoreapp2.1\Volume.runtimeconfig.json
+E:\Code\CS\HelloWorld\Volume\bin\Debug\netcoreapp2.1\Volume.runtimeconfig.dev.json
+E:\Code\CS\HelloWorld\Volume\bin\Debug\netcoreapp2.1\Volume.dll
+E:\Code\CS\HelloWorld\Volume\bin\Debug\netcoreapp2.1\Volume.pdb
+E:\Code\CS\HelloWorld\Volume\obj\Debug\netcoreapp2.1\Volume.dll
+E:\Code\CS\HelloWorld\Volume\obj\Debug\netcoreapp2.1\Volume.pdb

@@ -1,0 +1,11 @@
+D:\Code\CS\PiCalculate\PiCalculate\bin\Debug\netcoreapp3.0\PiCalculate.exe
+D:\Code\CS\PiCalculate\PiCalculate\bin\Debug\netcoreapp3.0\PiCalculate.deps.json
+D:\Code\CS\PiCalculate\PiCalculate\bin\Debug\netcoreapp3.0\PiCalculate.runtimeconfig.json
+D:\Code\CS\PiCalculate\PiCalculate\bin\Debug\netcoreapp3.0\PiCalculate.runtimeconfig.dev.json
+D:\Code\CS\PiCalculate\PiCalculate\bin\Debug\netcoreapp3.0\PiCalculate.dll
+D:\Code\CS\PiCalculate\PiCalculate\bin\Debug\netcoreapp3.0\PiCalculate.pdb
+D:\Code\CS\PiCalculate\PiCalculate\obj\Debug\netcoreapp3.0\PiCalculate.csprojAssemblyReference.cache
+D:\Code\CS\PiCalculate\PiCalculate\obj\Debug\netcoreapp3.0\PiCalculate.AssemblyInfoInputs.cache
+D:\Code\CS\PiCalculate\PiCalculate\obj\Debug\netcoreapp3.0\PiCalculate.AssemblyInfo.cs
+D:\Code\CS\PiCalculate\PiCalculate\obj\Debug\netcoreapp3.0\PiCalculate.dll
+D:\Code\CS\PiCalculate\PiCalculate\obj\Debug\netcoreapp3.0\PiCalculate.pdb
